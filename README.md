@@ -21,7 +21,7 @@ Desenvolver um sistema básico que permita gerenciar produtos em uma loja de ele
   
 ## 📁 Estrutura do projeto
 
-controle-estoque/ <br>
+Projeto-ADS_ControleEstoque/ <br>
 ├── menu.py # Arquivo principal que executa o sistema <br>
 ├── funcoes.py # Arquivo com as funções de controle de estoque <br>
 └── README.md # Documentação do projeto
